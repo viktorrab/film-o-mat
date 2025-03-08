@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Button } from "@/components/ui/button";
+import { Button } from "../components/ui/button";
 
 const questions = [
   { id: 1, text: "Welches Genre bevorzugst du?", options: ["Action", "Drama", "Sci-Fi", "Horror"] },
